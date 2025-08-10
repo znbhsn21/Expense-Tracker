@@ -88,10 +88,4 @@ Expense for August: $12.75
 📄 License
 This project is open-source and free to use.
 
-pgsql
-Copy
-Edit
-
-This version will look **perfectly formatted on GitHub** — with headings, tables, code blocks, and emoji for readability.  
-
-If you want, I can also make a **badge section** at the top (Python version, license,
+https://roadmap.sh/projects/expense-tracker
